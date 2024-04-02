@@ -1,0 +1,45 @@
+#notices {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+.top h1 {
+    color: #6A6A8F;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: 1rem 2rem;
+}
+
+.notice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    border-top: 1px solid #EDEDED;
+    border-bottom: 1px solid #EDEDED;
+    color: #212121;
+}
+
+.input-area {
+    padding: 1rem;
+}
+
+#notice-input {
+    width: 100%;
+    color: #212121;
+    padding: 0.75rem;
+    font-size: 1rem;
+    resize: vertical;
+    height: 15rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+}
+
+
+#notice-input:focus {
+    outline: 1px solid #6A6A8F;
+}

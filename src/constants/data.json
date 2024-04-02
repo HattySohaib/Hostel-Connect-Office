@@ -1,0 +1,93 @@
+{
+  "-Nu9MEF-W-vs646Yu9Yh": {
+    "department": "CSE",
+    "email": "nileshsharma.0210977@gmail.com",
+    "name": "Nilesh Sharma",
+    "phone": "1234567890",
+    "rollno": "1220020",
+    "subjects": [
+      -1,
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Maintenance": {
+    "Complaints": {
+      "-Ntnae6NEaQSNoBXuglc": {
+        "complainDetails": "ugvyg",
+        "complainEmail": "nileshsharma.0210977@gmail.com",
+        "complainHostel": "Hostel 1",
+        "complainHouseNo": "ubug",
+        "complainIsPrivate": false,
+        "complainReceivers": "abc",
+        "complainTime": 1711768498356,
+        "complainTitle": "fy",
+        "complainType": "Electrician",
+        "complainUsername": "Nilesh Sharma",
+        "status": 0
+      },
+      "-NuCbI5kqQVehRwmOqh5": {
+        "complainDetails": "dkhd",
+        "complainEmail": "nileshsharma.0210977@gmail.com",
+        "complainHostel": "Freshers Hostel",
+        "complainHouseNo": "dhjsa",
+        "complainIsPrivate": false,
+        "complainReceivers": "abc",
+        "complainTime": 1711772873781,
+        "complainTitle": "djhgdjh",
+        "complainType": "Electrician",
+        "complainUsername": "hewgdjh",
+        "status": 0
+      }
+    }
+  },
+  "Resources": {
+    "Courses": {
+      "CSE": {
+        "-NtkmrWBDOlKzU3ZZoFn": {
+          "branch": "CSE",
+          "courseName": "56",
+          "courseNo": "hello",
+          "dateCreated": "24 Mar 24 7:39:25 PM",
+          "userCreated": "Nilesh Sharma"
+        }
+      },
+      "Common": {
+        "-NuCU5UBRzFoWEemAd5D": {
+          "branch": "Common",
+          "courseName": "fdjeh",
+          "courseNo": "hkghh",
+          "dateCreated": "25 Mar 24 9:22:05 AM",
+          "userCreated": "Nilesh Sharma"
+        }
+      }
+    }
+  },
+  "Users": {
+    "nileshsharma,0210977@gmail,com": {
+      "branch": "",
+      "coverPic": "",
+      "dob": "",
+      "email": "nileshsharma.0210977@gmail.com",
+      "gender": "",
+      "hostel": "",
+      "name": "Nilesh Sharma",
+      "pass": "fa31b7bcb9e0d9ad4ab7e94e0230f2af7",
+      "phone": "",
+      "profilePic": "",
+      "year": ""
+    }
+  }
+}
