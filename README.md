@@ -1,5 +1,5 @@
-# Hostel Connect Office Use (WEB)
-
+# Hostel Connect Office Use (Web Interface Only) (Incomplete)
+### For GDSC Hackathon - IIITDM Kurnool
 ## Introduction
 
 Hostel Connect Office Use is a web-based interface designed for managing hostel operations. This system provides comprehensive tools for hostel administrators to manage student accommodations, monitor hostel facilities, and streamline administrative tasks. The student side of the system is managed through a separate app-based interface.
@@ -15,10 +15,9 @@ Hostel Connect Office Use is a web-based interface designed for managing hostel 
 
 ## Features
 
-- **Student Management**: Add, update, and delete student records.
-- **Room Allocation**: Manage room assignments and availability.
+- **Complaint Management**: Address, update, and delete student complaints.
+- **Mess Food Feedback**: Get feedback on Mess Food quality.
 - **Facility Monitoring**: Track and report maintenance issues.
-- **Fee Management**: Handle student fee payments and generate reports.
 - **Notification System**: Send notifications to students regarding important updates.
 - **User Roles**: Different access levels for admins and staff.
 
@@ -46,6 +45,7 @@ To set up the project locally, follow these steps:
    PORT=3000
    DATABASE_URI=your-database-uri
    JWT_SECRET=your-jwt-secret
+   FIREBASE_KEY=your-firebase-key
    ```
 
 ## Usage
